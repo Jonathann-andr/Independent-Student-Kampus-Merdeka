@@ -1,0 +1,2 @@
+# PenelitianCNN
+Just try
