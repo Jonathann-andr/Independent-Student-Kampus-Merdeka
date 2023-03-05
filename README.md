@@ -1,2 +1,2 @@
 # PenelitianCNN
-Just try
+Had done in 2021
