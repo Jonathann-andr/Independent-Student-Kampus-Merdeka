@@ -1,2 +1,2 @@
 # PenelitianCNN
-Had done in 2021
+Have been completed in 2021
